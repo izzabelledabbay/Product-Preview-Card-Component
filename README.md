@@ -38,7 +38,7 @@ Mobile:
 ### Links
 
 - Solution URL: https://github.com/izzabelledabbay/Product-Preview-Card-Component
-- Live Site URL: https://izzabelledabbay.github.io/frontendchallenge-1/
+- Live Site URL: https://izzabelledabbay.github.io/Product-Preview-Card-Component/
 
 ## My process
 
